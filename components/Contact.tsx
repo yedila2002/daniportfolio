@@ -39,7 +39,7 @@ export default function Contact() {
             </p>
 
             <div className="space-y-6">
-              <a href="mailto:yvelasquez1002@gmail.com" className="flex items-center gap-4 text-foreground hover:text-primary transition-colors text-lg group">
+              <a href="https://www.linkedin.com/in/daniela-velasquez-/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-foreground hover:text-primary transition-colors text-lg group">
                 <div className="w-12 h-12 bg-white rounded-xl flex items-center justify-center shadow-sm group-hover:scale-110 transition-transform border border-muted">
                   <Mail size={20} className="text-primary" />
                 </div>
